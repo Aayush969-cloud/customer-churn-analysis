@@ -86,9 +86,9 @@ This EDA-based analysis helped uncover high-risk customer segments, enabling ban
 
 ## 🙋‍♂️ Author
 
-**B Devendranadh Venkat**  
+**Aayush**  
 Student | Data Science Enthusiast  
-Course: Data Science Toolbox with Python (INT375)
+
 
 ---
 
